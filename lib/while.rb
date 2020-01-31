@@ -6,5 +6,5 @@ def using_while
 end
 
 using_while  #this is calling the method so that i can run the code in the terminal
-             # you also have to remember to map your file and folder in the terminal 
+             # you also have to remember to map your file and folder in the terminal
            #when you run the code so that ruby knows how to find it
